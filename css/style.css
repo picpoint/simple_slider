@@ -1,0 +1,29 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+.slider {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 30%;
+}
+
+.slider img {
+	width: 1200px;
+	height: 700px;
+}
+
+.btns {
+	display: flex;
+	justify-content: center;
+}
+
+.btns button {
+	width: 100px;
+	height: 40px;
+	margin: 20px 50px;
+	border-radius: 10px;
+	outline: none;
+}
